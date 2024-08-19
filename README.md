@@ -17,4 +17,4 @@
 - **JavaScript:** Logic for displaying the time and updating the greeting message.
 
 ## Interface
-![1st](https://github.com/user-attachments/assets/9c2b9544-d46e-4e7c-a788-8fc87575acec)
+![Clock](https://github.com/user-attachments/assets/0b7296da-46bd-46b5-91b9-c22354d76e82)
