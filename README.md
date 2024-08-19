@@ -1,5 +1,5 @@
 # Simple Clock with Date, Time, and Greeting
-## This project is a simple clock that displays the current date and time, along with a greeting message that changes according to the time of day (morning, afternoon, evening). It is built using HTML, CSS, and JavaScript.
+### This project is a simple clock that displays the current date and time, along with a greeting message that changes according to the time of day (morning, afternoon, evening). It is built using HTML, CSS, and JavaScript.
 
 ## Features
 - **Live Date and Time:** The clock shows the current date and time in real-time.
